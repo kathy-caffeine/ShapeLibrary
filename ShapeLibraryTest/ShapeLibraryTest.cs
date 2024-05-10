@@ -3,7 +3,7 @@ using ShapeLibrary;
 namespace ShapeLibraryTest
 {
     [TestClass]
-    public class UnitTest1
+    public class ShapeLibraryTest
     {
         [TestMethod]
         public void TestMethodCircle()
